@@ -1,0 +1,9 @@
+# Ignore Terraform files
+/.terraform
+/aws
+*.tfstate
+*.tfstate.*
+*.tfvars
+*.tfvars.json
+.terraform.lock.hcl
+awscliv2.zip
